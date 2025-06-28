@@ -27,3 +27,5 @@ The snake’s speed increases dynamically with the score, providing a progressiv
 Visually, the game is minimalist but effective, utilizing simple shapes and colors for clarity and ease of understanding. The code is designed with modularity and readability in mind, making it easy to extend with new features such as high score tracking, obstacles, or custom skins.
 
 In conclusion, this Snake Game using SFML demonstrates how a simple 2D game can be developed using C++ and multimedia libraries. It covers essential game development concepts like real-time input handling, collision detection, timed updates, basic UI rendering, and audio feedback, making it a solid starting point for beginners and a useful project for learning game programming.
+#UPLOAD
+![Image](https://github.com/user-attachments/assets/86f683ef-dd92-4bc2-9155-866d3270cf3a)
